@@ -9,12 +9,23 @@ git 使用总结
 
 
 ## git 常常用命令
+1、保存用户名和密码
+> git config --global credential-helper store
 
-1、查看文件状态
+2、查看文件状态
 > git status 
 
-2、查看历史提交记录
+3、查看历史提交记录
 > git log
+
+4、创建分支
+> git branch branch_name
+
+5、查看当前所有分支
+> git branch -a
+
+6、 合并指定分支到当前分支
+> git merge branch_name
 
 退出输入q
 
