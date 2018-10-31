@@ -8,7 +8,7 @@ tags: [other]
 git 使用总结
 
 
-## git 常常用命令
+## git 常用命令
 1、保存用户名和密码
 > git config --global credential-helper store
 
