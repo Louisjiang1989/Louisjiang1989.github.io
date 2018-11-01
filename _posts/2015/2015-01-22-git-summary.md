@@ -30,7 +30,7 @@ git 原理入门
 > git merge branch_name
 
 7、回滚至指定commit
-> git reset --hard commit_id
+> git reset --hard commit_id  
 > git push origin HEAD --force
 
 退出输入q
