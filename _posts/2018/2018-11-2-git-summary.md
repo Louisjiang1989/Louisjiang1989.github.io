@@ -7,7 +7,7 @@ tags: [other]
 
 git 原理入门
 
-![](https://louisjiang1989.github.io/assets/images/2015/git.JPG)  
+![](https://louisjiang1989.github.io/assets/images/2018/git.JPG)  
 
 
 ## git 常用命令
